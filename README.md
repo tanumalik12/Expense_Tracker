@@ -1,4 +1,7 @@
 ![image](https://github.com/tanumalik12/Expense_Tracker/assets/128899444/6a07d867-517e-41d3-afc9-b8258b945c7b)
+
+
+
 **What is an Expense Tracker?**
 
 
